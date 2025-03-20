@@ -1,0 +1,185 @@
+.sora-semibold {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+  }
+
+.inter{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+  }
+  
+.BASES {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .BASES .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .BASES .overlap {
+    position: absolute;
+    width: 1085px;
+    height: 1017px;
+    top: 4px;
+    left: 355px;
+  }
+  
+  .BASES .overlap-group {
+    position: absolute;
+    width: 1085px;
+    height: 1017px;
+    top: 0;
+    left: 0;
+  }
+  
+  .BASES .frame {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 14px;
+    left: 988px;
+  }
+  
+  .BASES .line {
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    top: 32px;
+    left: 21px;
+  }
+  
+  .BASES .img {
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    top: 43px;
+    left: 21px;
+  }
+  
+  .BASES .line-2 {
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    top: 21px;
+    left: 21px;
+  }
+  
+  .BASES .line-3 {
+    position: absolute;
+    width: 10px;
+    height: 1023px;
+    top: 0;
+    left: 945px;
+  }
+  
+  .BASES .line-4 {
+    position: absolute;
+    width: 218px;
+    height: 897px;
+    top: 120px;
+    left: 867px;
+  }
+  
+  .BASES .div-wrapper {
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    top: 936px;
+    left: 878px;
+    background-color: #000000;
+  }
+  
+  .BASES .text-wrapper {
+    position: absolute;
+    top: 7px;
+    left: 37px;
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .BASES .SECCIONES-y-PREMIOS {
+    position: absolute;
+    width: 901px;
+    top: 172px;
+    left: 0;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .BASES .span {
+    font-weight: 700;
+  }
+  
+  .BASES .text-wrapper-2 {
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  
+  .BASES .text-wrapper-3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  
+  .BASES .text-wrapper-4 {
+    font-family: "Sora", sans-serif;
+    font-size: 14px;
+  }
+  
+  .BASES .text-wrapper-5 {
+    position: absolute;
+    width: 172px;
+    top: 82px;
+    left: 279px;
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .BASES .line-5 {
+    position: absolute;
+    width: 10px;
+    height: 1023px;
+    top: 0;
+    left: 0;
+  }
+  
+  .BASES .line-6 {
+    position: absolute;
+    width: 10px;
+    height: 1023px;
+    top: 4px;
+    left: 100px;
+  }
+  
+  .BASES .LOGO {
+    position: absolute;
+    width: 195px;
+    height: 99px;
+    top: 34px;
+    left: 49px;
+    object-fit: cover;
+  }

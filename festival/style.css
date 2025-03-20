@@ -1,0 +1,185 @@
+.sora-semibold {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+  }
+
+.inter{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+  }
+  
+
+.FESTIVAL {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .FESTIVAL .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .FESTIVAL .overlap {
+    width: 190px;
+    left: 1233px;
+    position: absolute;
+    height: 1024px;
+    top: 0;
+  }
+  
+  .FESTIVAL .frame {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 18px;
+    left: 110px;
+  }
+  
+  .FESTIVAL .line {
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    top: 32px;
+    left: 21px;
+  }
+  
+  .FESTIVAL .img {
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    top: 43px;
+    left: 21px;
+  }
+  
+  .FESTIVAL .line-2 {
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    top: 21px;
+    left: 21px;
+  }
+  
+  .FESTIVAL .overlap-group {
+    width: 150px;
+    left: 0;
+    position: absolute;
+    height: 1024px;
+    top: 0;
+  }
+  
+  .FESTIVAL .line-3 {
+    position: absolute;
+    width: 10px;
+    height: 1024px;
+    top: 0;
+    left: 80px;
+  }
+  
+  .FESTIVAL .div-wrapper {
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    top: 928px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .FESTIVAL .text-wrapper {
+    position: absolute;
+    top: 7px;
+    left: 37px;
+    font-family: "Sora-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FESTIVAL .overlap-2 {
+    width: 1135px;
+    left: 49px;
+    position: absolute;
+    height: 1024px;
+    top: 0;
+  }
+  
+  .FESTIVAL .overlap-3 {
+    width: 481px;
+    left: 0;
+    position: absolute;
+    height: 1024px;
+    top: 0;
+  }
+  
+  .FESTIVAL .overlap-4 {
+    width: 195px;
+    left: 0;
+    position: absolute;
+    height: 1024px;
+    top: 0;
+  }
+  
+  .FESTIVAL .line-4 {
+    position: absolute;
+    width: 10px;
+    height: 1024px;
+    top: 0;
+    left: 38px;
+  }
+  
+  .FESTIVAL .LOGO {
+    position: absolute;
+    width: 195px;
+    height: 99px;
+    top: 34px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .FESTIVAL .element {
+    position: absolute;
+    width: 306px;
+    height: 204px;
+    top: 620px;
+    left: 175px;
+    object-fit: cover;
+  }
+  
+  .FESTIVAL .INTERSECCI-n {
+    position: absolute;
+    width: 928px;
+    top: 225px;
+    left: 207px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .FESTIVAL .element-cceea-b-ae {
+    position: absolute;
+    width: 307px;
+    height: 204px;
+    top: 620px;
+    left: 566px;
+    object-fit: cover;
+  }
+  .h1{
+    font-size: 70px; 
+    position:absolute; 
+    top: 100px; 
+    left: 220px;
+    font-family: "Sora", sans-serif;
+  }

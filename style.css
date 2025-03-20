@@ -1,0 +1,135 @@
+.INICIO {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .INICIO .div {
+    background-image: url(./img/INICIO.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 1446px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .INICIO .frame {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 1333px;
+  }
+  
+  .INICIO .line {
+    top: 32px;
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    left: 21px;
+  }
+  
+  .INICIO .img {
+    top: 43px;
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    left: 21px;
+  }
+  
+  .INICIO .line-2 {
+    top: 21px;
+    position: absolute;
+    width: 37px;
+    height: 8px;
+    left: 21px;
+  }
+  
+  .INICIO .facebook {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    top: 967px;
+    left: 105px;
+    object-fit: cover;
+  }
+  
+  .INICIO .instagram {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    top: 967px;
+    left: 55px;
+    object-fit: cover;
+  }
+  
+  .INICIO .LOGO {
+    position: absolute;
+    width: 194px;
+    height: 98px;
+    top: 31px;
+    left: 49px;
+    object-fit: cover;
+  }
+  
+  .INICIO .frame-2 {
+    position: absolute;
+    width: 657px;
+    height: 271px;
+    top: 378px;
+    left: 395px;
+    background-color: #000000;
+  }
+  
+  .INICIO .IV-EDICI-n {
+    position: absolute;
+    width: 277px;
+    top: 65px;
+    left: 51px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INICIO .FESTIVAL {
+    position: absolute;
+    top: 55px;
+    left: 352px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INICIO .VER-m-s-wrapper {
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    top: 932px;
+    left: 1223px;
+    background-color: #000000;
+  }
+  
+  .INICIO .VER-m-s {
+    position: absolute;
+    top: 7px;
+    left: 46px;
+    font-family: "Sora-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
